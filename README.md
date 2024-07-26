@@ -43,12 +43,12 @@ A passionate Web and App developer with expertise in Python, JavaScript, and the
 - Freelance Web Developer: Developing and maintaining web applications for various clients.
 
 ## Education
-- Bachelor's Degree in Computer Science, University of Lagos, 2025
+- Bachelor's Degree in Mechanical Engineering, Federal University Of Technology Akure , 2025
 
 ## Interests
 Apart from coding, I have a deep passion for robotics and enjoy working on robotics projects using Python. I also love playing video games, with some of my favorites being [Call of Duty], [FIFA], and [Mortal Kombat].
 
 ## Contact
-Feel free to reach out to me via email at basitquadri@gmail.com. I'm open to collaboration, job opportunities, or just connecting with fellow developers.
+Feel free to reach out to me via email at Quadribasit04@gmail.com. I'm open to collaboration, job opportunities, or just connecting with fellow developers.
 
 Let's connect and build something awesome together! 🚀
