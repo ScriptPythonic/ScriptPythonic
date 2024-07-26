@@ -1,66 +1,54 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100"/>
-</div>
+# Hello, I'm Quadri Basit Ayomide! 👋
 
-### 👋 Hello, World! I'm Quadri Basit Ayomide, aka ScriptPythonic
-I'm a passionate web developer who thrives on building dynamic, user-friendly, and efficient web applications. I have a deep love for Python and its versatile frameworks and a keen interest in modern frontend technologies.
+## About Me
+A passionate Web and App developer with expertise in Python, JavaScript, and their frameworks. I enjoy creating robust and user-friendly applications.
 
-### 🌟 What I Do:
-- **Backend Development**: Crafting robust backend systems with Python, Django, Flask, and RESTful APIs.
-- **Frontend Development**: Bringing designs to life using JavaScript, React, Next.js, and Tailwind CSS.
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FScriptPythonic%2Fhit-counter)
 
-### 🚀 My Mission:
-To create impactful digital solutions that solve real-world problems, enhance user experience, and drive innovation.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ScriptPythonic&theme=algolia)
 
-### 🤝 Let's Collaborate!
-I'm always open to collaborating with startups, joining exciting projects, and contributing to open-source communities.
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ScriptPythonic&theme=radical)
 
-### ⚡ Fun Fact:
-I'm a lifelong learner who believes in the power of continuous improvement. I love experimenting with new technologies and refining my coding skills.
+## Skills
+**Backend**
 
-### 📬 Connect with Me:
-<div align="center">
-  <a href="https://www.linkedin.com/in/basit-quadri-10a70a20a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://wa.me/2347036626371">
-    <img src="https://img.shields.io/badge/WhatsApp-lightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
-  </a>
-  <a href="https://twitter.com/Nehrest32">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+![Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🛠️ Languages and Tools:
-<p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</p>
+**Frontend**
 
----
+![Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔥 My GitHub Stats:
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=ScriptPythonic&theme=dark&background=000000" alt="GitHub Streak"/>
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptPythonic&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-  </a>
-</div>
+**Database**
 
----
+![Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Let's create something amazing together! 🚀
+**Version Control**
+
+![Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## Projects
+- [Futa Library Management System](https://github.com/ScriptPythonic/library-management-system): A comprehensive system for managing a library's books, students, and staff.
+- [Futa Student Guide Website ](https://github.com/Scriptpythonic/student-guide): Created to provide resources for futa student especially for freshers 
+
+## Experience
+- Freelance Web Developer: Developing and maintaining web applications for various clients.
+
+## Education
+- Bachelor's Degree in Computer Science, University of Lagos, 2025
+
+## Interests
+Apart from coding, I have a deep passion for robotics and enjoy working on robotics projects using Python. I also love playing video games, with some of my favorites being [Call of Duty], [FIFA], and [Mortal Kombat].
+
+## Contact
+Feel free to reach out to me via email at basitquadri@gmail.com. I'm open to collaboration, job opportunities, or just connecting with fellow developers.
+
+Let's connect and build something awesome together! 🚀
