@@ -19,9 +19,17 @@ I'm always open to collaborating with startups, joining exciting projects, and c
 I'm a lifelong learner who believes in the power of continuous improvement. I love experimenting with new technologies and refining my coding skills.
 
 ### 📬 Connect with Me:
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basit-quadri-10a70a20a/)
-- [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-lightgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2347036626371)
-- [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nehrest32)
+<div align="center">
+  <a href="https://www.linkedin.com/in/basit-quadri-10a70a20a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://wa.me/2347036626371">
+    <img src="https://img.shields.io/badge/WhatsApp-lightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+  <a href="https://twitter.com/Nehrest32">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ### 🛠️ Languages and Tools:
 <p align="center">
@@ -42,9 +50,16 @@ I'm a lifelong learner who believes in the power of continuous improvement. I lo
 ---
 
 ### 🔥 My GitHub Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ScriptPythonic&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptPythonic&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=ScriptPythonic&theme=dark&background=000000" alt="GitHub Streak"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptPythonic&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+  </a>
+</div>
 
 ---
 
