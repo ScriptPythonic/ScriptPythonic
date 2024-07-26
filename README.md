@@ -36,7 +36,7 @@ A passionate Web and App developer with expertise in Python, JavaScript, and the
 ![Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Projects
-- [Futa Library Management System](https://github.com/ScriptPythonic/library-management-system): A comprehensive system for managing a library's books, students, and staff.
+- [Futa Library Management System](https://github.com/ScriptPythonic/Futa-E-Library): A comprehensive system for managing a library's books, students, and staff.
 - [Futa Student Guide Website ](https://github.com/Scriptpythonic/student-guide): Created to provide resources for futa student especially for freshers 
 
 ## Experience
