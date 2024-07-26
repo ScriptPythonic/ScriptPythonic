@@ -37,7 +37,7 @@ A passionate Web and App developer with expertise in Python, JavaScript, and the
 
 ## Projects
 - [Futa Library Management System](https://github.com/ScriptPythonic/Futa-E-Library): A comprehensive system for managing a library's books, students, and staff.
-- [Futa Student Guide Website ](https://github.com/Scriptpythonic/student-guide): Created to provide resources for futa student especially for freshers 
+- [Futa Student Guide Website ](https://github.com/Scriptpythonic/Futa_Student_Guide): Created to provide resources for futa student especially for freshers 
 
 ## Experience
 - Freelance Web Developer: Developing and maintaining web applications for various clients.
