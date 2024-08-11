@@ -52,3 +52,12 @@ Apart from coding, I have a deep passion for robotics and enjoy working on robot
 Feel free to reach out to me via email at Quadribasit04@gmail.com. I'm open to collaboration, job opportunities, or just connecting with fellow developers.
 
 Let's connect and build something awesome together! 🚀
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=scriptpythonic&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
