@@ -54,10 +54,4 @@ Feel free to reach out to me via email at Quadribasit04@gmail.com. I'm open to c
 Let's connect and build something awesome together! 🚀
 
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=scriptpythonic&style=for-the-badge&color=orange" alt=""/>
-</div>
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
