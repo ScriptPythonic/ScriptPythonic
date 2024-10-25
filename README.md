@@ -1,7 +1,3 @@
-Here's a shorter, streamlined version:
-
----
-
 # Hi, I'm Quadri Basit Ayomide! 👋
 
 ## About Me
